@@ -4,3 +4,4 @@ Bellabeat, is a high-tech manufacturer of health-focused products for women. Wan
 
 Goal of this project: To suggest marketing strategies for BellaBeat based on the insights of FitBit 
 
+Read the detailed analysis in the jupyter notebook Analysis_SmartDevices.ipynb. 
